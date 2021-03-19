@@ -1,7 +1,0 @@
-com/example/login/MainActivity.java
- com.example.login.MainActivity
- com.example.login.MainActivity$1
-com/example/login/MainActivity2.java
- com.example.login.MainActivity2
-com/example/login/BuildConfig.java
- com.example.login.BuildConfig
